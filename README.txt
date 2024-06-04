@@ -15,10 +15,10 @@ Assumptions:
 Instructions:
 
 Compile the Program:
-javac LaniogMarvinMidtermReq.java
+javac FinalsRequirement.java
 
 Run the Program:
-java LaniogMarvinMidtermReq
+java FinalsRequirement
 
 Input File Format (Decimal.txt):
 Each line should contain a single decimal number representing the value of x.
